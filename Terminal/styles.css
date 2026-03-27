@@ -1,0 +1,20 @@
+::selection {
+  background: #000000;
+}
+body {
+  background: #353b44;
+  color: #ea6d19;
+  display: flex;
+  flex-direction: column;
+  font: bold 20px 'Consolas';
+  margin: 0;
+  min-height: 100vh;
+  text-align: left;
+}
+#userInput {
+  background: transparent;
+  border: none;
+  color: #409930;
+  font: inherit;
+  outline: none;
+}
