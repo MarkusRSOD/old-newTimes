@@ -13,13 +13,9 @@ CCBL is a utility on Python for encoding and decoding Caesar cipher for Belarusi
 ## Identity
 Eine Liste der Dinge, die mich zu dem machen, der ich bin?
 ## Iloveyou
-Iloveyou
-### Link:
-- https://markusrsod.github.io/old-newTimes/Iloveyou/index.html
+### https://markusrsod.github.io/old-newTimes/Iloveyou/index.html
 ## Terminal
-"Terminal" written with CSS/HTML/JS
-### Link:
-- https://markusrsod.github.io/old-newTimes/Terminal/index.html
+### markusrsod.github.io/old-newTimes/Terminal/index.html
 ## ValveSoftwareEnginesMaps
 ለቫልቭ ጨዋታ ሞተሮች የተፈጠሩ ካርታዎች።
 ## YellowBoardScript (YBS)
